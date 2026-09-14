@@ -1,6 +1,6 @@
 # Annual CO₂ emissions - Data package
 
-This data package contains the data that powers the chart ["Annual CO₂ emissions"](https://ourworldindata.org/grapher/annual-co2-emissions-per-country?v=1&csvType=full&useColumnShortNames=false) on the Our World in Data website. It was downloaded on September 13, 2026.
+This data package contains the data that powers the chart ["Annual CO₂ emissions"](https://ourworldindata.org/grapher/annual-co2-emissions-per-country?v=1&csvType=full&useColumnShortNames=false) on the Our World in Data website. It was downloaded on September 14, 2026.
 
 ### Active Filters
 
